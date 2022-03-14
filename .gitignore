@@ -1,0 +1,14 @@
+.*
+!.gitignore
+!.gitmodules
+
+# bin files
+*.o
+*.so
+*.rlib
+*.dll
+*.exe
+
+# cargo files
+Cargo.lock
+target/
